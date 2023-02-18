@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 14576,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Matt Novak",
+            "title": "Bitcoin Price Slides to Two-Year Low as Fears Persist Over FTX Contagion",
+            "description": "The price of Bitcoin slid to just $15,680 on Tuesday morning, the lowest level in over two years for the cryptocurrency. And most people expect the price to continue to fall substantially as traders worry the fallout from the implosion of FTX, once the second…",
+            "url": "https://gizmodo.com/bitcoin-price-slides-fears-persist-ftx-contagion-eth-1849811382",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/e20e15c2c69269e8476e99a9a8e9ed9a.png",
+            "publishedAt": "2022-11-22T11:00:00Z",
+            "content": "The price of Bitcoin slid to just $15,680 on Tuesday morning, the lowest level in over two years for the cryptocurrency. And most people expect the price to continue to fall substantially as traders … [+1918 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Mitchell Clark",
+            "title": "As FTX sinks, other crypto exchanges are showing their coins",
+            "description": "Crypto.com, Binance, and Coinbase are among the cryptocurrency exchanges trying to prove to customers that their funds are safe following the collapse of FTX.",
+            "url": "https://www.theverge.com/2022/11/11/23453560/ftx-bankruptcy-coinbase-binance-crypto-proof-of-reserves",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/wPO2usOSxctI84haZv11M8ErP_0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23587767/acastro_220524_STK428_0003.jpg",
+            "publishedAt": "2022-11-11T21:31:19Z",
+            "content": "You say you have my money? Prove it. | Illustration by Alex Castro / The Verge\r\n\n \n\n As FTX, formerly the world’s third-largest cryptocurrency exchange by volume, files for bankruptcy and halts withd… [+5867 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Andy Greenberg",
+            "title": "The Hunt for the Dark Web’s Biggest Kingpin, Part 4: Face to Face",
+            "description": "The team uses a secret technique to locate AlphaBay’s server. But just as the operation heats up, the agents have an unexpected run-in with their target.",
+            "url": "https://www.wired.com/story/alphabay-series-part-4-face-to-face/",
+            "urlToImage": "https://media.wired.com/photos/6369782f3505151fbc0b01cd/191:100/w_1280,c_limit/WI110122_EX_Tracers_AlphaBay2_01.jpg",
+            "publishedAt": "2022-11-15T11:00:00Z",
+            "content": "The answer appeared, without fanfare, on Levins screen: an AlphaBay IP address. Or rather, a handful of IP addresses that were likely to belong to the sites wallet server. A quick search revealed tha… [+4733 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "msmash",
+            "title": "Binance Releases Proof-of-Reserves System",
+            "description": "Binance has released its proof-of-reserves system, starting with bitcoin, in order to show that the exchange is healthy and solvent. From a report: This comes just weeks after rival exchange FTX collapsed, after seemingly swapping user funds for other, more i…",
+            "url": "https://slashdot.org/story/22/11/25/1426252/binance-releases-proof-of-reserves-system",
+            "urlToImage": "https://a.fsdn.com/sd/topics/bitcoin_64.png",
+            "publishedAt": "2022-11-26T06:01:00Z",
+            "content": "I came, I saw, I deleted all your files."
+        }
+    ]
+}
